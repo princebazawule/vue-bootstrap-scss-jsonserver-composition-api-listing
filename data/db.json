@@ -1,0 +1,173 @@
+{
+    "records": [
+        {
+          "title": "The Low End Theory",
+          "id": 53362,
+          "featured": true,
+          "price": 9.5,
+          "collection": "",
+          "quantity": 10,
+          "dateAdded":
+            "Tue Mar 24 2015 20:00:00 GMT-0400 (Eastern Daylight Time)",
+          "details": {
+            "artist": "A Tribe Called Quest",
+            "genre": "Hip Hop",
+            "style": "Conscious",
+            "released": "1991",
+            "format": "2 × Vinyl, LP, Album, Reissue, Remastered, "
+          },
+          "images": ["53362-1", "53362-2", "53362-3"]
+        },
+        {
+          "title": "Kind Of Blue",
+          "id": 53363,
+          "featured": true,
+          "price": 49.5,
+          "collection": "gold",
+          "quantity": 8,
+          "dateAdded":
+            "Mon Mar 23 2015 20:00:00 GMT-0400 (Eastern Daylight Time)",
+          "details": {
+            "artist": "Miles Davis",
+            "genre": "Jazz",
+            "style": "Modal",
+            "released": "1959",
+            "format": "2 × Vinyl, LP, Album, Reissue, Remastered, "
+          },
+          "images": ["53363-1", "53363-2", "53363-3", "53363-4", "53363-5"]
+        },
+        {
+          "title": "Bad Girls",
+          "id": 53364,
+          "featured": true,
+          "price": 29.5,
+          "collection": "",
+          "quantity": 5,
+          "dateAdded":
+            "Wed Mar 25 2015 20:00:00 GMT-0400 (Eastern Daylight Time)",
+          "details": {
+            "artist": "Donna Summer",
+            "genre": "Disco",
+            "style": "Synth-pop, Disco",
+            "released": "1979",
+            "format": "2xLP, Album"
+          },
+          "images": ["53364-1", "53364-2", "53364-3", "53364-4", "53364-5"]
+        },
+        {
+          "title": "Places And Spaces",
+          "id": 53365,
+          "featured": true,
+          "price": 129,
+          "collection": "gold",
+          "quantity": 5,
+          "dateAdded":
+            "Wed Mar 25 2015 20:00:00 GMT-0400 (Eastern Daylight Time)",
+          "details": {
+            "artist": "Donald Byrd",
+            "genre": "Jazz",
+            "style": "Jazz-Funk",
+            "released": "1975",
+            "format": "LP, Album"
+          },
+          "images": ["53365-1", "53365-2", "53365-3"]
+        },
+        {
+          "title": "3 Feet High And Rising",
+          "id": 53366,
+          "featured": false,
+          "price": 20.7,
+          "collection": "gold",
+          "quantity": 5,
+          "dateAdded":
+            "Wed Mar 25 2015 20:00:00 GMT-0400 (Eastern Daylight Time)",
+          "details": {
+            "artist": "De La Soul",
+            "genre": "Hip Hop",
+            "style": "Pop Rap, Conscious",
+            "released": "1989",
+            "format": "Vinyl, LP, Album, Allied Pressing"
+          },
+          "images": ["53366-1", "53366-2", "53366-3", "53366-4"]
+        },
+        {
+          "title": "The Chronic",
+          "id": 53367,
+          "featured": false,
+          "price": 49.5,
+          "collection": "",
+          "quantity": 10,
+          "dateAdded":
+            "Wed Mar 25 2015 20:00:00 GMT-0400 (Eastern Daylight Time)",
+          "details": {
+            "artist": "Dr. Dre",
+            "genre": "Hip Hop",
+            "style": "Gangsta, G-Funk",
+            "released": "1992",
+            "format": "Vinyl, LP, Album"
+          },
+          "images": ["53367-1", "53367-2", "53367-3", "53367-4"]
+        },
+        {
+          "title": "Shaft",
+          "id": 53368,
+          "featured": false,
+          "price": 69.5,
+          "collection": "",
+          "quantity": 10,
+          "dateAdded":
+            "Wed Mar 25 2015 20:00:00 GMT-0400 (Eastern Daylight Time)",
+          "details": {
+            "artist": "Isaac Hayes",
+            "genre": "Soul",
+            "style": "Soul-Jazz, Soundtrack",
+            "released": "1971",
+            "format": "2xLP, Album, Blu"
+          },
+          "images": ["53368-1", "53368-2", "53368-3"]
+        },
+        {
+          "title": "Mothership Connection",
+          "id": 53369,
+          "featured": false,
+          "price": 128.5,
+          "collection": "gold",
+          "quantity": 4,
+          "dateAdded":
+            "Wed Mar 25 2015 20:00:00 GMT-0400 (Eastern Daylight Time)",
+          "details": {
+            "artist": "Parliament",
+            "genre": "Funk",
+            "style": "P.Funk, Funk",
+            "released": "1975",
+            "format": "LP, Album"
+          },
+          "images": ["53369-1", "53369-2", "53369-3"]
+        },
+        {
+          "title": "The Payback",
+          "id": 53370,
+          "featured": false,
+          "price": 114.9,
+          "collection": "",
+          "quantity": 10,
+          "dateAdded":
+            "Wed Mar 25 2015 20:00:00 GMT-0400 (Eastern Daylight Time)",
+          "details": {
+            "artist": "James Brown",
+            "genre": "Funk",
+            "style": "Soul, Funk",
+            "released": "1973",
+            "format": "2xLP, Album"
+          },
+          "images": [
+            "53370-1",
+            "53370-2",
+            "53370-3",
+            "53370-4",
+            "53370-5",
+            "53370-6"
+          ]
+        }
+      ]
+}
